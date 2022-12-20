@@ -20,6 +20,7 @@ Also it was complied with `opt` suffix, so make command looked like
 ```bash
 scons build/RISCV/gem5.opt -j 12
 ```
+More detailed instruction may be found [here](https://www.gem5.org/documentation/general_docs/building).
 
 ### Running
 To run test program, change your prefix of RISC-V toolchain and path to gem5 accordingly, then just run 
